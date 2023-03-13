@@ -238,7 +238,7 @@ html {
   padding-top: 50%;
   /* kích thước height= 1/2 width */
   margin-top: 46.5px;
-  background: url("/w3_band/assets/img/slider1/chicago.jpg") top center / cover no-repeat;
+  background: url('../img/slider1/chicago.jpg') top center / cover no-repeat;
   /* (background img) background position / background size background repeat*/
 }
 
@@ -259,6 +259,7 @@ html {
 #slider .text-description {
   font-size: 15px;
   margin-top: 25px;
+  text-shadow: 0 0 1px black;
 }
 
 #content {
